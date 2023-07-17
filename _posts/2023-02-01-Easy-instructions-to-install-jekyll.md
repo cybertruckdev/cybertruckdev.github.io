@@ -8,7 +8,7 @@ categories: [ Jekyll, Tutorial ]
 featured: true
 comments: false 
 ---
-# *This post is still a work in progress as of 2/3/2023*
+# *This post is still a work in progress as of 7/17/2023*
 
 The goal for this blog post is to provide easy instructions for installing Jekyll. 
 
@@ -50,7 +50,8 @@ This page is a work in progress, if you find something missing or wrong, let me 
     - Where SITENAME is the name of your repository that you modified in Step 3. 
 6. Navigate to the Repository Settings in GitHub
     - Navigate to the Actions/General Settings
-        - Under Workflow Permissions be sure to choose "Read and write permissions" for the Actions workflow to be able to push changes to the repository.
+        - Under Workflow Permissions be sure to choose "Read and write permissions" for the Actions workflow to be able to push changes to the repository. (If you are unable to set this, try changing it at the Organization level first, then this individual repo)
+
 7. Change the _config.yml file
     - This file has a number of variables for options for your site, such as Title, Description, Author, etc. You will want to customize these to start to brand and name your site.
     - If you're using Google Analytics you can configure the MEASUREMENT ID here as well.
