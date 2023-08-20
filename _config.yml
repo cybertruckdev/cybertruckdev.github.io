@@ -1,17 +1,17 @@
 # Site Settings
 # You can change the settings below in order to customize your website.
-name: "JekyllExample.com"
-title: "JekyllExample.com - A sample Jekyll Example website! "
-description: "A sample Jekyll Site!"
+name: "Cybertruck.dev"
+title: "Cybertruck.dev - A Tesla Cybertruck Dev Site! "
+description: "A Cybertruck page!"
 logo: 'assets/Logo.png'
 favicon: 'assets/favicon.ico'
 baseurl: ""
-google_analytics: 'G-ZKHV3G3SN8' # configured for Google Analytics 4 MEASUREMENT ID
+google_analytics: '' # configured for Google Analytics 4 MEASUREMENT ID
 # disqus: 
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
-url: 'https://www.JekyllExample.com'
+url: 'https://www.Cybertruck.dev'
 
 templatemessage: '<a target="_blank" href="https://www.chrishammond.com/">Forked from Chris Hammond</a>'
 
@@ -23,8 +23,8 @@ authors:
     gravatar: bff097b7cc348bebce39ee1c7694d125
     email: christoc@christoc.com
     web: https://www.chrishammond.com
-    twitter: https://twitter.com/christoc
-    description: "Founder of JekyllExample.com. Read more at ChrisHammond.com" 
+    twitter: https://twitter.com/cybertruckdev
+    description: "Founder of Cybertruck.dev. Read more at ChrisHammond.com" 
 
 # Plugins
 plugins:
