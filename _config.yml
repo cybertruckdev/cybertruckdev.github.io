@@ -2,7 +2,7 @@
 # You can change the settings below in order to customize your website.
 name: "Cybertruck.dev"
 title: "Cybertruck.dev - A Tesla Cybertruck Dev Site! "
-description: "A Cybertruck page!"
+description: "A Cybertruck Dev page!"
 logo: 'assets/Logo.png'
 favicon: 'assets/favicon.ico'
 baseurl: ""
