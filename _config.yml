@@ -13,7 +13,7 @@ include: ["_pages"]
 permalink: /:title/
 url: 'https://www.Cybertruck.dev'
 
-templatemessage: '<a target="_blank" href="https://www.chrishammond.com/">Forked from Chris Hammond</a>'
+templatemessage: 'Forked from <a target="_blank" href="https://www.chrishammond.com/"> Chris Hammond</a>'
 
 # Authors
 authors:
