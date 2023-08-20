@@ -38,7 +38,7 @@ var documents = [{
     "id": 7,
     "url": "https://www.Cybertruck.dev/first-post",
     "title": "First Post",
-    "body": "2022/08/20 - Welcome to Cybertruck. dev! Stay tuned! "
+    "body": "2022/08/20 - Welcome to Cybertruck. dev! Stay tuned! (Photo courtesy of Ed Runnion) "
     }];
 
 var idx = lunr(function () {

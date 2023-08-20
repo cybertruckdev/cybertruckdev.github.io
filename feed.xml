@@ -5,13 +5,15 @@
     <description>A Cybertruck Dev page!</description>
     <link>https://www.Cybertruck.dev/</link>
     <atom:link href="https://www.Cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Aug 2023 19:30:00 +0000</pubDate>
-    <lastBuildDate>Sun, 20 Aug 2023 19:30:00 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Aug 2023 20:16:18 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Aug 2023 20:16:18 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>First Post</title>
         <description>&lt;p&gt;Welcome to Cybertruck.dev! Stay tuned!&lt;/p&gt;
+
+&lt;p&gt;(Photo courtesy of Ed Runnion)&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Aug 2022 13:00:15 +0000</pubDate>
         <link>https://www.Cybertruck.dev/first-post</link>
