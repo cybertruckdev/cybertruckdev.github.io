@@ -8,5 +8,6 @@ categories: [ Tesla, Cybertruck ]
 featured: true
 comments: false 
 ---
-
 Welcome to Cybertruck.dev! Stay tuned!
+
+(Photo courtesy of Ed Runnion)
