@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Cybertruck''s Arrival in Missouri - A New Chapter in Automotive Innovation
+title: The Cybertruck's Arrival in Missouri - A New Chapter in Automotive Innovation
 date: '2022-08-20T20:00:15+00:00'
 permalink: cybertruck-missouri
 image: cybertruckmissouri.jpg
