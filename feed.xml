@@ -3,10 +3,10 @@
   <channel>
     <title>Cybertruck.dev - A Tesla Cybertruck Dev Site! </title>
     <description>A Cybertruck Dev page!</description>
-    <link>https://www.Cybertruck.dev/</link>
-    <atom:link href="https://www.Cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Aug 2023 03:28:31 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Aug 2023 03:28:31 +0000</lastBuildDate>
+    <link>https://cybertruck.dev/</link>
+    <atom:link href="https://cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 21 Aug 2023 03:51:08 +0000</pubDate>
+    <lastBuildDate>Mon, 21 Aug 2023 03:51:08 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -52,8 +52,8 @@
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/coleslaw_333/status/1691828028114976903&quot;&gt;Picture Source&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Aug 2022 20:00:15 +0000</pubDate>
-        <link>https://www.Cybertruck.dev/cybertruck-missouri</link>
-        <guid isPermaLink="true">https://www.Cybertruck.dev/cybertruck-missouri</guid>
+        <link>https://cybertruck.dev/cybertruck-missouri</link>
+        <guid isPermaLink="true">https://cybertruck.dev/cybertruck-missouri</guid>
         
         
         <category>Tesla</category>
@@ -71,8 +71,8 @@
 &lt;p&gt;(Photo courtesy of Ed Runnion)&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Aug 2022 13:00:15 +0000</pubDate>
-        <link>https://www.Cybertruck.dev/first-post</link>
-        <guid isPermaLink="true">https://www.Cybertruck.dev/first-post</guid>
+        <link>https://cybertruck.dev/first-post</link>
+        <guid isPermaLink="true">https://cybertruck.dev/first-post</guid>
         
         
         <category>Tesla</category>

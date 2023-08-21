@@ -1,1 +1,1 @@
-Sitemap: https://www.cybertruck.dev/sitemap.xml
+Sitemap: https://cybertruck.dev/sitemap.xml
