@@ -5,7 +5,7 @@ title: "Cybertruck.dev - A Tesla Cybertruck Dev Site! "
 description: "A Cybertruck Dev page!"
 logo: 'assets/images/logo.gif'
 favicon: 'assets/favicon.ico'
-baseurl: "/"
+baseurl: ""
 google_analytics: '' # configured for Google Analytics 4 MEASUREMENT ID
 # disqus: 
 mailchimp-list: 
