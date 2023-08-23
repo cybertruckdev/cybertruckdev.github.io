@@ -8,4 +8,4 @@ redirect_from:
 ---
 {% picture About-1.jpg %}
 
-Cybertruck.dev is coming soon
+Cybertruck.dev is a fan site from [Chris Hammond](https://www.chrishammond.com/)
