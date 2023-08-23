@@ -5,9 +5,62 @@
     <description>A Cybertruck Dev page!</description>
     <link>https://cybertruck.dev/</link>
     <atom:link href="https://cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Aug 2023 02:59:57 +0000</pubDate>
-    <lastBuildDate>Tue, 22 Aug 2023 02:59:57 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Aug 2023 14:48:03 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Aug 2023 14:48:03 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>How to tell your Cybertruck Order Number Position</title>
+        <description>&lt;p&gt;So you’ve ordered a Cybertruck, and you’re wondering how many people are ahead of you in line.  Here’s how to tell:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Go to &lt;a href=&quot;https://www.tesla.com/cybertruck&quot;&gt;Tesla’s Cybertruck Order Page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Click on “Manage” in the upper right corner&lt;/li&gt;
+  &lt;li&gt;Click on “View Details” next to your Cybertruck order&lt;/li&gt;
+  &lt;li&gt;Click on “View Order Agreement”&lt;/li&gt;
+  &lt;li&gt;Search for “Order Number” in the document&lt;/li&gt;
+  &lt;li&gt;Your order number will be in the format RN123456789&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;But what does that tell you? Not a whole lot without a little more info, so here you go.&lt;/p&gt;
+
+&lt;p&gt;There’s a &lt;a href=&quot;https://sites.google.com/view/tesla-reservation-tracker&quot;&gt;Cybertruck Reservation Tracker&lt;/a&gt;, it will provide you some info, but the value is limited because some of the data is just flat out wrong. My order for example, says it is attached to someone in Ithaca, NY and is a prior Tesla Owner. I am in Missouri, and have never owned a Tesla.&lt;/p&gt;
+
+&lt;p&gt;That tracker shows that my order is estimated to be position 6,368, and 1,338 in line for the Trim (3 motor) that I ordered.&lt;/p&gt;
+
+&lt;p&gt;There are also a bunch of duplicate order numbers in there with all sorts of different order dates.&lt;/p&gt;
+
+&lt;p&gt;So trying to throw out most of their filtering logic based on the assumption that they simply don’t have the right info, let’s start with a more basic assumption.&lt;/p&gt;
+
+&lt;p&gt;Order number 112,744,133 shows up with a “corrected” position of 9, so let’s assume that the order number is within 13-15 numbers of that actual order number, so somewhere around 112,744,120. That puts my order number around 7,080.&lt;/p&gt;
+
+&lt;p&gt;The tracker tries to estimate out how many “other” orders (other models, not truck) were placed for Teslas in between when the initial order was placed, and my Cybertruck order was placed. I have a hard time believing that many, if any, were ordering other Teslas in the few minutes from the time the order window opened to the time that I ordered, so I would lean towards somewhere in that 7k range for my order.&lt;/p&gt;
+
+&lt;p&gt;Now the question is how many folks will cancel their Cybertruck order?&lt;/p&gt;
+
+&lt;p&gt;How many people have already cancelled their Cybertruck order?&lt;/p&gt;
+
+&lt;p&gt;How many people will simply not respond when the order banks actually open up and people need to start configuring the paying for their Cybertruck?&lt;/p&gt;
+
+&lt;p&gt;As we near the end of Q3 2023, my uneducated assumptions tell me that we will see some pricing and delivery of the Cybertruck before the end of September 2023, and from there we will see production ramp up.&lt;/p&gt;
+
+&lt;p&gt;I am expecting to get to place my order sometime in late Spring 2024.&lt;/p&gt;
+
+&lt;p&gt;This is all based on a lot of assumptions. My last vehicle order, a Ford F250, took 400 days from the day I ordered it to the date I picked it up, and that wasn’t a NEW model, it was just a super duty truck from Ford….&lt;/p&gt;
+
+&lt;p&gt;When do you think you’ll get your Cybertruck order?&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 23 Aug 2022 08:00:15 +0000</pubDate>
+        <link>https://cybertruck.dev/cybertruck-ordernumber</link>
+        <guid isPermaLink="true">https://cybertruck.dev/cybertruck-ordernumber</guid>
+        
+        
+        <category>Tesla</category>
+        
+        <category>Cybertruck</category>
+        
+      </item>
     
       <item>
         <title>The Cybertruck's Arrival in Missouri - A New Chapter in Automotive Innovation</title>
