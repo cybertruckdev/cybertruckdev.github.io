@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "https://cybertruck.dev/about",
     "title": "About Cybertruck.dev",
-    "body": " Cybertruck. dev is coming soon "
+    "body": " Cybertruck. dev is a fan site from Chris Hammond "
     }, {
     "id": 2,
     "url": "https://cybertruck.dev/categories",
