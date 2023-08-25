@@ -4,7 +4,7 @@ title: From Gasoline to Gigawatts- Why Switch to a Tesla?
 date: '2022-08-24T13:00:15+00:00'
 permalink: gasoline-to-gigawatts
 image: 
-categories: [ Tesla, Cybertruck ]
+categories: [ Tesla, Electric, Industry ]
 featured: true
 comments: false 
 ---
