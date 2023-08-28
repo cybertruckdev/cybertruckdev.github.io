@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cybertruck.dev - A Tesla Cybertruck Dev Site! </title>
-    <description>A Cybertruck Dev page!</description>
+    <title>Cybertruck.dev - A Tesla Cybertruck Fan Site! </title>
+    <description>A Cybertruck Fan Page!</description>
     <link>https://cybertruck.dev/</link>
     <atom:link href="https://cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Aug 2023 19:52:57 +0000</pubDate>
-    <lastBuildDate>Mon, 28 Aug 2023 19:52:57 +0000</lastBuildDate>
+    <pubDate>Mon, 28 Aug 2023 19:56:41 +0000</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2023 19:56:41 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
