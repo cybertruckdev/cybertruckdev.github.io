@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Glimpse into the Gigafactory - The Inner Workings of Tesla\’s Manufacturing Powerhouse
+title: A Glimpse into the Gigafactory - The Inner Workings of Tesla's Manufacturing Powerhouse
 date: '2022-08-28T013:00:15+00:00'
 permalink: tesla-gigafactory
 image: 
