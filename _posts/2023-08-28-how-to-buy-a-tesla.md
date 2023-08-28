@@ -3,7 +3,7 @@ layout: post
 title: How to Purchase a Tesla - A Step-by-Step Guide
 date: '2022-08-28T013:30:15+00:00'
 permalink: how-to-buy-a-tesla
-image: 
+image: posts/clowncybertruck.jpg
 categories: [ Tesla, Industry, Purchase ]
 featured: true
 comments: false 
