@@ -6,7 +6,7 @@ description: "A Cybertruck Fan Page!"
 logo: 'assets/images/logo.gif'
 favicon: 'assets/favicon.ico'
 baseurl: ""
-google_analytics: '' # configured for Google Analytics 4 MEASUREMENT ID
+google_analytics: 'G-J1Q5FQGY29' # configured for Google Analytics 4 MEASUREMENT ID
 # disqus: 
 mailchimp-list: 
 include: ["_pages"]
