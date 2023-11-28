@@ -5,9 +5,68 @@
     <description>A Cybertruck Fan Page!</description>
     <link>https://cybertruck.dev/</link>
     <atom:link href="https://cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Aug 2023 02:49:37 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Aug 2023 02:49:37 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Nov 2023 19:41:03 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2023 19:41:03 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Cybertruck Price Calculator</title>
+        <description>    &lt;h2&gt;Tesla Cybertruck Price Calculator&lt;/h2&gt;
+    &lt;form id=&quot;cybertruckForm&quot;&gt;
+        &lt;label for=&quot;motor&quot;&gt;Motor option:&lt;/label&gt;
+        &lt;select id=&quot;motor&quot;&gt;
+            &lt;option value=&quot;1&quot;&gt;1 Motor&lt;/option&gt;
+            &lt;option value=&quot;2&quot;&gt;2 Motor&lt;/option&gt;
+            &lt;option value=&quot;3&quot;&gt;3 Motor&lt;/option&gt;
+            &lt;option value=&quot;4&quot;&gt;4 Motor&lt;/option&gt;
+        &lt;/select&gt;&lt;br&gt;&lt;br&gt;
+
+        &lt;label for=&quot;battery&quot;&gt;Battery Size:&lt;/label&gt;
+        &lt;select id=&quot;battery&quot;&gt;
+            &lt;option value=&quot;small&quot;&gt;Small&lt;/option&gt;
+            &lt;option value=&quot;medium&quot;&gt;Medium&lt;/option&gt;
+            &lt;option value=&quot;large&quot;&gt;Large&lt;/option&gt;
+            &lt;option value=&quot;stupidLarge&quot;&gt;Stupid Large&lt;/option&gt;
+        &lt;/select&gt;&lt;br&gt;&lt;br&gt;
+
+        &lt;label for=&quot;color&quot;&gt;Color:&lt;/label&gt;
+        &lt;select id=&quot;color&quot;&gt;
+            &lt;option value=&quot;stainlessSteel&quot;&gt;Stainless Steel&lt;/option&gt;
+            &lt;option value=&quot;black&quot;&gt;Black&lt;/option&gt;
+            &lt;option value=&quot;white&quot;&gt;White&lt;/option&gt;
+            &lt;option value=&quot;custom&quot;&gt;Custom&lt;/option&gt;
+        &lt;/select&gt;&lt;br&gt;&lt;br&gt;
+
+        &lt;button type=&quot;button&quot; onclick=&quot;calculatePrice()&quot;&gt;Calculate Price&lt;/button&gt;
+    &lt;/form&gt;
+
+    &lt;h3 id=&quot;result&quot;&gt;Total Price: $&lt;/h3&gt;
+
+    &lt;script&gt;
+        function calculatePrice() {
+            // Since the price is always going to be $1 Million, 
+            // we don&apos;t need to use the selected options for calculation.
+            const totalPrice = 1000000;
+
+            // Display the result
+            document.getElementById(&apos;result&apos;).innerHTML = `Total Price: $${totalPrice.toLocaleString()}`;
+        }
+    &lt;/script&gt;
+</description>
+        <pubDate>Mon, 28 Nov 2022 13:00:15 +0000</pubDate>
+        <link>https://cybertruck.dev/cybertruck-price-calculator</link>
+        <guid isPermaLink="true">https://cybertruck.dev/cybertruck-price-calculator</guid>
+        
+        
+        <category>Tesla</category>
+        
+        <category>Industry</category>
+        
+        <category>Cybertruck</category>
+        
+        <category>Calculator</category>
+        
+      </item>
     
       <item>
         <title>How to Purchase a Tesla - A Step-by-Step Guide</title>
@@ -72,7 +131,7 @@ Interested in joining the electric vehicle (EV) revolution? There’s no better 
       </item>
     
       <item>
-        <title>A Glimpse into the Gigafactory - The Inner Workings of Tesla's Manufacturing Powerhouse</title>
+        <title>A Glimpse into the Gigafactory - The Inner Workings of Tesla&apos;s Manufacturing Powerhouse</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://ts.la/christopher30216&quot;&gt;Interested in a Tesla?&lt;/a&gt;
 Tesla’s electric vehicles (EVs) have captured global attention, but the company’s ambitious manufacturing capabilities are equally fascinating. Often overshadowed by the final products—sleek, high-performance electric cars—the Gigafactories are the backbone of Tesla’s operation. This post aims to give you an insider’s look at these engineering marvels and their role in Tesla’s strategy.&lt;/p&gt;
 
@@ -122,7 +181,7 @@ Tesla’s electric vehicles (EVs) have captured global attention, but the compan
       </item>
     
       <item>
-        <title>The Battery Revolution - Understanding Tesla's Advancements in Energy Storage</title>
+        <title>The Battery Revolution - Understanding Tesla&apos;s Advancements in Energy Storage</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://ts.la/christopher30216&quot;&gt;Interested in a Tesla?&lt;/a&gt;
 Tesla is a name synonymous with groundbreaking electric vehicles (EVs), but what often gets overshadowed is the company’s pioneering role in battery technology. While the sleek designs and autonomous driving features grab headlines, it’s Tesla’s advancements in energy storage that truly set it apart. Let’s delve into the technological breakthroughs that enable Tesla’s industry-leading range and what the future holds for battery technology.&lt;/p&gt;
 
@@ -323,7 +382,7 @@ If you’re still driving that trusty old gas-powered vehicle, you might be wond
       </item>
     
       <item>
-        <title>The Cybertruck's Arrival in Missouri - A New Chapter in Automotive Innovation</title>
+        <title>The Cybertruck&apos;s Arrival in Missouri - A New Chapter in Automotive Innovation</title>
         <description>&lt;h1 id=&quot;the-cybertrucks-arrival-in-missouri-a-new-chapter-in-automotive-innovation&quot;&gt;The Cybertruck’s Arrival in Missouri: A New Chapter in Automotive Innovation&lt;/h1&gt;
 
 &lt;p&gt;Missouri, long known for its contributions to the automotive industry, is soon to become one of the latest states to welcome Tesla’s futuristic electric vehicle, the Cybertruck. Set to disrupt the trucking market with its radical design and cutting-edge technology, the Cybertruck is poised to make a significant impact in the Show-Me State.&lt;/p&gt;
