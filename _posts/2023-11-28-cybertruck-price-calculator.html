@@ -1,0 +1,51 @@
+---
+layout: post
+title: Cybertruck Price Calculator
+date: '2022-11-28T013:00:15+00:00'
+permalink: cybertruck-price-calculator
+image: posts/cybertruckcalculator.png
+categories: [ Tesla, Industry, Cybertruck, Calculator ]
+featured: true
+comments: false 
+---
+    <h2>Tesla Cybertruck Price Calculator</h2>
+    <form id="cybertruckForm">
+        <label for="motor">Motor option:</label>
+        <select id="motor">
+            <option value="1">1 Motor</option>
+            <option value="2">2 Motor</option>
+            <option value="3">3 Motor</option>
+            <option value="4">4 Motor</option>
+        </select><br><br>
+
+        <label for="battery">Battery Size:</label>
+        <select id="battery">
+            <option value="small">Small</option>
+            <option value="medium">Medium</option>
+            <option value="large">Large</option>
+            <option value="stupidLarge">Stupid Large</option>
+        </select><br><br>
+
+        <label for="color">Color:</label>
+        <select id="color">
+            <option value="stainlessSteel">Stainless Steel</option>
+            <option value="black">Black</option>
+            <option value="white">White</option>
+            <option value="custom">Custom</option>
+        </select><br><br>
+
+        <button type="button" onclick="calculatePrice()">Calculate Price</button>
+    </form>
+
+    <h3 id="result">Total Price: $</h3>
+
+    <script>
+        function calculatePrice() {
+            // Since the price is always going to be $1 Million, 
+            // we don't need to use the selected options for calculation.
+            const totalPrice = 1000000;
+
+            // Display the result
+            document.getElementById('result').innerHTML = `Total Price: $${totalPrice.toLocaleString()}`;
+        }
+    </script>
