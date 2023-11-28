@@ -5,13 +5,15 @@
     <description>A Cybertruck Fan Page!</description>
     <link>https://cybertruck.dev/</link>
     <atom:link href="https://cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Nov 2023 19:41:03 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Nov 2023 19:41:03 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Nov 2023 19:43:56 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2023 19:43:56 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
         <title>Cybertruck Price Calculator</title>
-        <description>    &lt;h2&gt;Tesla Cybertruck Price Calculator&lt;/h2&gt;
+        <description>Everyone wants to know how much the Cybertruck is going to be, and when you can get one! Well we&apos;ve got the first Cybertruck Price Calculator available for you to use! Just select your options and click the button to see how much your Cybertruck will cost!
+
+    &lt;h2&gt;Tesla Cybertruck Price Calculator&lt;/h2&gt;
     &lt;form id=&quot;cybertruckForm&quot;&gt;
         &lt;label for=&quot;motor&quot;&gt;Motor option:&lt;/label&gt;
         &lt;select id=&quot;motor&quot;&gt;
