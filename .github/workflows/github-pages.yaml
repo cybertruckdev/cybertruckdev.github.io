@@ -42,10 +42,10 @@ jobs:
           sudo apt install ./libpoppler97_0.86.1-0ubuntu1.4_amd64.deb
 
 # 8-4-2023 FIX FOR BAD PATHS
-      - name: Install libpoppler-glib8_0.86.1-0ubuntu1.3_amd64.deb
+      - name: Install libpoppler-glib8_0.86.1-0ubuntu1.4_amd64.deb
         run: |
-          wget http://azure.archive.ubuntu.com/ubuntu/pool/main/p/poppler/libpoppler-glib8_0.86.1-0ubuntu1.3_amd64.deb
-          sudo apt install ./libpoppler-glib8_0.86.1-0ubuntu1.3_amd64.deb
+          wget http://azure.archive.ubuntu.com/ubuntu/pool/main/p/poppler/libpoppler-glib8_0.86.1-0ubuntu1.4_amd64.deb
+          sudo apt install ./libpoppler-glib8_0.86.1-0ubuntu1.4_amd64.deb
 
       - name: Install libvips42
         run: |
