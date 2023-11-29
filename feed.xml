@@ -5,8 +5,8 @@
     <description>A Cybertruck Fan Page!</description>
     <link>https://cybertruck.dev/</link>
     <atom:link href="https://cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Nov 2023 04:47:43 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Nov 2023 04:47:43 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Nov 2023 04:59:44 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Nov 2023 04:59:44 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -58,15 +58,6 @@
 &lt;p&gt;&lt;em&gt;*completely unofficial &lt;div style=&quot;font-size:.5em&quot;&gt;and invalid&lt;/div&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;style&gt;
-
-.container {
-    max-width: 500px;
-    margin: auto;
-    background: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
 
 .form-group {
     margin-bottom: 15px;
