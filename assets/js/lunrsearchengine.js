@@ -43,7 +43,7 @@ var documents = [{
     "id": 8,
     "url": "https://cybertruck.dev/tesla-cybertruck-details",
     "title": "Tesla Cybertruck Details",
-    "body": "2023/11/30 - Today is the detail, we’ll be updating this blog post with all the details coming from the release announcement later today. The BroadcastThe broadcast started with a very very slow animated video of various interior bits and parts of the Cybertruck. It’s taking forever with only a background beat, no audible message at this point. There are 84k viewers as of 2:03pm central time. Cybertruck logo at the end of the video, 92. 6k viewers currently 2:04pm central time. "
+    "body": "2023/11/30 - Today is the detail, we’ll be updating this blog post with all the details coming from the release announcement later today. The BroadcastThe broadcast started with a very very slow animated video of various interior bits and parts of the Cybertruck. It’s taking forever with only a background beat, no audible message at this point. There are 84k viewers as of 2:03pm central time. Cybertruck logo at the end of the video, 92. 6k viewers currently 2:04pm central time. Looks like the video is stuck now, 2:06pm central time, just a still logo. "
     }, {
     "id": 9,
     "url": "https://cybertruck.dev/cybertruck-price-calculator",
