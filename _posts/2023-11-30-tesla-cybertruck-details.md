@@ -111,6 +111,10 @@ Drag Race
 
 - Deliveries begin now
 
+- Pulled another truck in, not sure why yet 
+
+
+
 
 
 
