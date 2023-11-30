@@ -17,4 +17,4 @@ There are 84k viewers as of 2:03pm central time.
 
 Cybertruck logo at the end of the video, 92.6k viewers currently 2:04pm central time.
 
-
+Looks like the video is stuck now, 2:06pm central time, just a still logo.
