@@ -59,3 +59,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Aiming for "more truck than truck, okay, thanks bro" "More utility than truck, faster than a sports car"
 
+- Trucks are tough, how tough? Let's find out: Tesla-designed stainless steel super allow, didn't exist before
+
+
