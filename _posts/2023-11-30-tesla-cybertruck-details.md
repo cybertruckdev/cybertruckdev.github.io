@@ -13,4 +13,6 @@ Today is the detail, we'll be updating this blog post with all the details comin
 # The Broadcast
 The broadcast started with a very very slow animated video of various interior bits and parts of the Cybertruck. It's taking forever with only a background beat, no audible message at this point.
 
+There are 84k viewers as of 2:03pm central time.
+
 
