@@ -47,3 +47,5 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Looks like maybe now we're going to get started. 2:26pm central time. Elon appears to have driven out in a cybertruck
 
+- He's got his poubty face on, and he's talking about the truck. 2:27pm central time.
+
