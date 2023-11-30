@@ -25,4 +25,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Refreshed the page to make sure I am not missing anything, I am not.... 2:10pm central time.
 
-- 
+- Fell asleep, didn't miss anything, 2:11pm central time.
+
+
