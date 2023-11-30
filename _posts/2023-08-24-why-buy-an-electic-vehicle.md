@@ -5,7 +5,7 @@ date: '2023-08-24T13:00:15+00:00'
 permalink: gasoline-to-gigawatts
 image: 
 categories: [ Tesla, Electric, Industry ]
-featured: true
+featured: false
 comments: false 
 ---
 

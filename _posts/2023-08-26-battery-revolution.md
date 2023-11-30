@@ -5,7 +5,7 @@ date: '2023-08-26T08:00:15+00:00'
 permalink: battery-revolution
 image: 
 categories: [ Tesla, Industry ]
-featured: true
+featured: false
 comments: false 
 ---
 

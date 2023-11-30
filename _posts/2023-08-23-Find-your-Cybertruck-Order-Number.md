@@ -5,7 +5,7 @@ date: '2023-08-23T08:00:15+00:00'
 permalink: cybertruck-ordernumber
 image: posts/cybertruckordernumber.jpg
 categories: [ Tesla, Cybertruck ]
-featured: true
+featured: false
 comments: false 
 ---
 So you've ordered a Cybertruck, and you're wondering how many people are ahead of you in line.  Here's how to tell:

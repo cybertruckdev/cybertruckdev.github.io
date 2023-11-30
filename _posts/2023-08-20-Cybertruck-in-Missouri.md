@@ -5,7 +5,7 @@ date: '2023-08-20T20:00:15+00:00'
 permalink: cybertruck-missouri
 image: "posts/cybertruckmissouri.jpg"
 categories: [ Tesla, Cybertruck, Missouri ]
-featured: true
+featured: false
 comments: false 
 ---
 # The Cybertruck's Arrival in Missouri: A New Chapter in Automotive Innovation
