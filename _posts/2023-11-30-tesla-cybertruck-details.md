@@ -83,11 +83,14 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Bed 6' long 4' wide. 4x8 plywood fits with the back down
 
-- A truck pull: A key test of how much power your truck actually has. 40k pound sled. Compared to other electric pickups, and SRW Super Duty. 
+- A truck pull: A key test of how much power your truck actually has. 40k pound sled. Compared to other electric pickups, and SRW Super Duty Diesel. 
 
 - Tri-motor 6850 curb weight
 
 - Pulled further than other trucks, go figure.
 
+- "Incredibly useful truck, not a grandstanding showpiece like me" 
+
+- Performance: 
 
 
