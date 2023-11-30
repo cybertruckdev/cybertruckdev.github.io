@@ -29,4 +29,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Video has started showing some more animated views again, can't tell what part of the vehicle it might be yet.  
 
+- Not even sure why I'm live blogging this, talk about a waste of time. 2:13pm central time.
+
 - 
