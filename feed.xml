@@ -5,8 +5,8 @@
     <description>A Cybertruck Fan Page!</description>
     <link>https://cybertruck.dev/</link>
     <atom:link href="https://cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Nov 2023 20:42:11 +0000</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2023 20:42:11 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 20:42:52 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 20:42:52 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -156,7 +156,10 @@
 &lt;ul&gt;
   &lt;li&gt;2023 Porsche 911 - pulling a porsche 911, beat a 911&lt;/li&gt;
   &lt;li&gt;0-60 2.6s&lt;/li&gt;
-  &lt;li&gt;1/4 mile &amp;lt;11s&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1/4 mile &amp;lt;11s&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Deliveries begin now&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
