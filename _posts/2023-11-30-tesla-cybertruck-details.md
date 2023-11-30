@@ -15,4 +15,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 There are 84k viewers as of 2:03pm central time.
 
+Cybertruck logo at the end of the video, 92.6k viewers currently 2:04pm central time.
+
 
