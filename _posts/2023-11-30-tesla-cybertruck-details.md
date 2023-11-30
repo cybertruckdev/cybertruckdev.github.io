@@ -53,4 +53,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Once in a while a rare product comes around... how original. Special, unusual, special moments. So awkward. 2:28pm central time.
 
+- It's very rare that a product comes along, that experts say is impossible.
 
+- 
