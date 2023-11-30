@@ -92,5 +92,10 @@ The broadcast started with a very very slow animated video of various interior b
 - "Incredibly useful truck, not a grandstanding showpiece like me" 
 
 - Performance: 
+  - 35" All terrain tires
+  - Adaptive air suspension 
+  - 17" ground clearance (true, clearance, no diff hanging below)
+
+
 
 
