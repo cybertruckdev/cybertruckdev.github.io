@@ -124,3 +124,10 @@ Drag Race
 - "Thanks for coming to the cybertruck delivery event, on we've got one more"
 
 - Elon is driving out with the last guy
+
+- Initial take: Pretty boring event, not sure anyone learned a single new thing...
+
+Options?
+Price?
+
+Nah 
