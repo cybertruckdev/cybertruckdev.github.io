@@ -10,6 +10,7 @@ comments: false
 ---
 Today is the detail, we'll be updating this blog post with all the details coming from the release announcement later today.
 
+# The Broadcast
+The broadcast started with a very very slow animated video of various interior bits and parts of the Cybertruck. It's taking forever with only a background beat, no audible message at this point.
 
-## Coming Soon
 
