@@ -61,4 +61,7 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Trucks are tough, how tough? Let's find out: Tesla-designed stainless steel super allow, didn't exist before
 
+- No corrosion, doesn't need paint, body panels would break the stamping machine. Because of the steel exoskeleton, has more stiffness than a mclaren p1.
+
+
 
