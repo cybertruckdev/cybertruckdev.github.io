@@ -10,11 +10,15 @@ comments: false
 ---
 Today is the detail, we'll be updating this blog post with all the details coming from the release announcement later today.
 
-# The Broadcast
+# Cybertruck Launch Event - The Broadcast
 The broadcast started with a very very slow animated video of various interior bits and parts of the Cybertruck. It's taking forever with only a background beat, no audible message at this point.
 
-There are 84k viewers as of 2:03pm central time.
+- There are 84k viewers as of 2:03pm central time.
 
-Cybertruck logo at the end of the video, 92.6k viewers currently 2:04pm central time.
+- Cybertruck logo at the end of the video, 92.6k viewers currently 2:04pm central time.
 
-Looks like the video is stuck now, 2:06pm central time, just a still logo.
+- Looks like the video is stuck now, 2:06pm central time, just a still logo.
+
+- 2:07pm central time, the video still sits with the logo, the music is playing, but still boring.
+
+- 
