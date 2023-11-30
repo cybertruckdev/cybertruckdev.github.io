@@ -23,4 +23,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - 2:09pm central time, the video is still not doing anything, music has shifted.
 
+- Refreshed the page to make sure I am not missing anything, I am not.... 2:10pm central time.
+
 - 
