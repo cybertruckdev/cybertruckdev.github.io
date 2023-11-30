@@ -31,4 +31,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Not even sure why I'm live blogging this, talk about a waste of time. 2:13pm central time.
 
+- Now we're back in the interior of the truck, with it all falling apart in space... 
+
 - 
