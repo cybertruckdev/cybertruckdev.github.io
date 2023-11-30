@@ -119,13 +119,6 @@ Drag Race
 
 - There's a whole line of cybertrucks, but no details as to what options or pricing on them.
 
-
-
-
-
-
-
-
-
+- "Is that it?" Elon 
 
 
