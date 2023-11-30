@@ -35,4 +35,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - We're definitely just looping the video now... 2:16pm central time.
 
+- 2:19pm central time, we're outside the truck now, looks like we're on the moon...
+
 - 
