@@ -63,5 +63,9 @@ The broadcast started with a very very slow animated video of various interior b
 
 - No corrosion, doesn't need paint, body panels would break the stamping machine. Because of the steel exoskeleton, has more stiffness than a mclaren p1.
 
+- Brings up the "broken window" incident, going to try again.
+
+- Frans throwing a baseball, bounced off the window sill, not really throwing it very hard...
+
 
 
