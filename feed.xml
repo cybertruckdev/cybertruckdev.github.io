@@ -5,8 +5,8 @@
     <description>A Cybertruck Fan Page!</description>
     <link>https://cybertruck.dev/</link>
     <atom:link href="https://cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Nov 2023 20:38:36 +0000</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2023 20:38:36 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 20:39:20 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 20:39:20 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -136,6 +136,11 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Performance:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;35” All terrain tires&lt;/li&gt;
+      &lt;li&gt;Adaptive air suspension&lt;/li&gt;
+      &lt;li&gt;17” ground clearance (true, clearance, no diff hanging below)&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
