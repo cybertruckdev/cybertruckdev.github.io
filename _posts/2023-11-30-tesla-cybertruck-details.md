@@ -112,8 +112,12 @@ Drag Race
 - Deliveries begin now
 
 - Pulled another truck in, not sure why yet 
+
 - Opens the door for a lady to get in, they are handing over trucks to their owners.
 
+- 3 trucks so far delivered
+
+- 
 
 
 
