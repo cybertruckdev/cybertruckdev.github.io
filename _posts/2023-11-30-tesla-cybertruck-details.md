@@ -75,5 +75,9 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Video of a tommy gun being fired at it, no penetration, windows were rolled down, didn't break.
 
+- This is so awkward. He just brought up Joe Rogan and a bow and arrow.
 
+- What about a truck doing actual work? 11k pound towing capacity.
+
+- 
 
