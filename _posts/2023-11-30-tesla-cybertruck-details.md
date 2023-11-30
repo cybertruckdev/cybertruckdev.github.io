@@ -67,5 +67,11 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Frans throwing a baseball, bounced off the window sill, not really throwing it very hard...
 
+- "The glass is tough", rocks won't crack the glass, basically rockproof, makes the car very quiet. You'll appreciate how smooth and quiet it is.
+
+- Doesn't feel like a normal truck, smooth and silent when you drive it.
+
+- Rollover, center of gravity so low, it doesn't rollover. If you get in an argument with another car, you will win.
+
 
 
