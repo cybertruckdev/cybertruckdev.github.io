@@ -41,3 +41,5 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Finally something happening. 2:24pm central time. "The future should look like", now we're going around the world in images and who knows what else.
 
+- Video of the cybertruck driving around a bunch of harsh environments... 
+
