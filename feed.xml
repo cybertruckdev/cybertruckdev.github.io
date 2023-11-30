@@ -5,8 +5,8 @@
     <description>A Cybertruck Fan Page!</description>
     <link>https://cybertruck.dev/</link>
     <atom:link href="https://cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Nov 2023 21:11:50 +0000</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2023 21:11:50 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 21:26:58 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 21:26:58 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -305,13 +305,13 @@ Price?&lt;/p&gt;
     &lt;form id=&quot;cybertruckForm&quot;&gt;
         &lt;label for=&quot;motor&quot;&gt;Motor option:&lt;/label&gt;
         &lt;select id=&quot;motor&quot;&gt;
-            &lt;option value=&quot;1&quot;&gt;1 Motor&lt;/option&gt;
-            &lt;option value=&quot;2&quot;&gt;2 Motor&lt;/option&gt;
-            &lt;option value=&quot;3&quot;&gt;3 Motor&lt;/option&gt;
-            &lt;option value=&quot;4&quot;&gt;4 Motor&lt;/option&gt;
+            &lt;option value=&quot;1&quot;&gt;1 Motor (not available)&lt;/option&gt;
+            &lt;option value=&quot;2&quot;&gt;Rear Wheel Drive&lt;/option&gt;
+            &lt;option value=&quot;3&quot;&gt;All Wheel Drive&lt;/option&gt;
+            &lt;option value=&quot;4&quot;&gt;Cyberbeast&lt;/option&gt;
         &lt;/select&gt;&lt;br&gt;&lt;br&gt;
 
-        &lt;label for=&quot;battery&quot;&gt;Battery Size:&lt;/label&gt;
+        &lt;label for=&quot;battery&quot;&gt;Battery Size (heh you don&apos;t get to choose):&lt;/label&gt;
         &lt;select id=&quot;battery&quot;&gt;
             &lt;option value=&quot;small&quot;&gt;Small&lt;/option&gt;
             &lt;option value=&quot;medium&quot;&gt;Medium&lt;/option&gt;
