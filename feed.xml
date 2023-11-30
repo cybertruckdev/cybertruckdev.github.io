@@ -5,8 +5,8 @@
     <description>A Cybertruck Fan Page!</description>
     <link>https://cybertruck.dev/</link>
     <atom:link href="https://cybertruck.dev/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Nov 2023 20:42:52 +0000</pubDate>
-    <lastBuildDate>Thu, 30 Nov 2023 20:42:52 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Nov 2023 20:43:37 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Nov 2023 20:43:37 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -159,7 +159,10 @@
   &lt;li&gt;
     &lt;p&gt;1/4 mile &amp;lt;11s&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Deliveries begin now&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Deliveries begin now&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pulled another truck in, not sure why yet&lt;/li&gt;
 &lt;/ul&gt;
 
 </description>
