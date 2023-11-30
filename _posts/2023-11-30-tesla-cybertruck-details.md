@@ -37,4 +37,4 @@ The broadcast started with a very very slow animated video of various interior b
 
 - 2:19pm central time, we're outside the truck now, looks like we're on the moon...
 
-- 
+- Squirrel! 2:20pm central time. You can buy a Cyber beer and Stein... https://shop.tesla.com/product/cyberbeer-_-cyberstein-limited-edition-set?sku=2012814-00-A&web=true 
