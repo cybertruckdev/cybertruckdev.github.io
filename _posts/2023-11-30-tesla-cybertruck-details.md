@@ -51,4 +51,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - He's standing in the back of the truck, the lights can't reach him. 
 
-- Once in a while a rare product comes around... how original. Special, unusual, special moments.
+- Once in a while a rare product comes around... how original. Special, unusual, special moments. So awkward. 2:28pm central time.
+
+
