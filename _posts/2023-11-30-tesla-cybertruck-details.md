@@ -55,4 +55,7 @@ The broadcast started with a very very slow animated video of various interior b
 
 - It's very rare that a product comes along, that experts say is impossible.
 
-- 
+- "Our best product, the most unique thing on the road, finally the future will look like the future" 2:29pm central time.
+
+- Aiming for "more truck than truck, okay, thanks bro" "More utility than truck, faster than a sports car"
+
