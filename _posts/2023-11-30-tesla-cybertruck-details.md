@@ -103,7 +103,11 @@ The broadcast started with a very very slow animated video of various interior b
   - Low speed manuverability
   - 48V low voltage architecture, first of it's kind
   - Ethernet comms, distributed controllers, 70% less wire
-  - 
+  
+Drag Race
+- 2023 Porsche 911 - pulling a porsche 911, beat a 911
+- 0-60 2.6s
+- 1/4 mile <11s
 
 
 
