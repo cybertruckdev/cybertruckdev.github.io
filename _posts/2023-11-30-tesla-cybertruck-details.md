@@ -49,3 +49,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - He's got his poubty face on, and he's talking about the truck. 2:27pm central time.
 
+- He's standing in the back of the truck, the lights can't reach him. 
+
+
