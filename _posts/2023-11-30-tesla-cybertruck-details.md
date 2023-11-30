@@ -123,4 +123,4 @@ Drag Race
 
 - "Thanks for coming to the cybertruck delivery event, on we've got one more"
 
-
+- Elon is driving out with the last guy
