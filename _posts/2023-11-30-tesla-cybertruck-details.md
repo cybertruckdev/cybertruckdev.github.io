@@ -27,4 +27,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Fell asleep, didn't miss anything, 2:11pm central time.
 
+- Video has started showing some more animated views again, can't tell what part of the vehicle it might be yet.  
 
+- 
