@@ -79,5 +79,15 @@ The broadcast started with a very very slow animated video of various interior b
 
 - What about a truck doing actual work? 11k pound towing capacity.
 
-- 
+- 2500lbs payload capacity, you can put more in it
+
+- Bed 6' long 4' wide. 4x8 plywood fits with the back down
+
+- A truck pull: A key test of how much power your truck actually has. 40k pound sled. Compared to other electric pickups, and SRW Super Duty. 
+
+- Tri-motor 6850 curb weight
+
+- Pulled further than other trucks, go figure.
+
+
 
