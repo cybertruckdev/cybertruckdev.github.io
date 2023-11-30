@@ -33,4 +33,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Now we're back in the interior of the truck, with it all falling apart in space... 
 
+- We're definitely just looping the video now... 2:16pm central time.
+
 - 
