@@ -115,7 +115,7 @@ Drag Race
 
 - Opens the door for a lady to get in, they are handing over trucks to their owners.
 
-- 3 trucks so far delivered
+- 3 trucks so far delivered 2:44pm central time.
 
 - 
 
