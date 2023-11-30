@@ -117,7 +117,9 @@ Drag Race
 
 - 3 trucks so far delivered 2:44pm central time.
 
-- 
+- There's a whole line of cybertrucks, but no details as to what options or pricing on them.
+
+
 
 
 
