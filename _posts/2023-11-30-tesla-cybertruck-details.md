@@ -21,4 +21,6 @@ The broadcast started with a very very slow animated video of various interior b
 
 - 2:07pm central time, the video still sits with the logo, the music is playing, but still boring.
 
+- 2:09pm central time, the video is still not doing anything, music has shifted.
+
 - 
