@@ -73,5 +73,7 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Rollover, center of gravity so low, it doesn't rollover. If you get in an argument with another car, you will win.
 
+- Video of a tommy gun being fired at it, no penetration, windows were rolled down, didn't break.
+
 
 
