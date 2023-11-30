@@ -121,4 +121,6 @@ Drag Race
 
 - "Is that it?" Elon 
 
+- "Thanks for coming to the cybertruck delivery event, on we've got one more"
+
 
