@@ -45,3 +45,5 @@ The broadcast started with a very very slow animated video of various interior b
 
 - Towing a raptor engine...
 
+- Looks like maybe now we're going to get started. 2:26pm central time. Elon appears to have driven out in a cybertruck
+
