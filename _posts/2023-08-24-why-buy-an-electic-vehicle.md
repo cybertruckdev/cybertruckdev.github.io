@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From Gasoline to Gigawatts- Why Switch to a Tesla?
-date: '2022-08-24T13:00:15+00:00'
+date: '2023-08-24T13:00:15+00:00'
 permalink: gasoline-to-gigawatts
 image: 
 categories: [ Tesla, Electric, Industry ]

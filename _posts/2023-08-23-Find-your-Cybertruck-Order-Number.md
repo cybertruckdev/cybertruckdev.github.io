@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to tell your Cybertruck Order Number Position
-date: '2022-08-23T08:00:15+00:00'
+date: '2023-08-23T08:00:15+00:00'
 permalink: cybertruck-ordernumber
 image: posts/cybertruckordernumber.jpg
 categories: [ Tesla, Cybertruck ]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Tesla Revolutionized the Automotive Industry
-date: '2022-08-25T08:00:15+00:00'
+date: '2023-08-25T08:00:15+00:00'
 permalink: tesla-auto-industry
 image: 
 categories: [ Tesla, Industry ]
