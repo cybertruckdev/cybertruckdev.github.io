@@ -18,7 +18,7 @@
 
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>CyberTruck - Cybertruck.dev - A Tesla Cybertruck Fan Site!</title>
+		<title>Cybertruck - Cybertruck.dev - A Tesla Cybertruck Fan Site!</title>
 		<meta
 			property="og:url"
 			content="https://cybertruck.dev/category/cybertruck/"
@@ -27,7 +27,7 @@
 
 		<meta property="og:type" content="category" />
 
-		<meta property="og:title" content="CyberTruck" />
+		<meta property="og:title" content="Cybertruck" />
 
 		<meta property="og:description" content="A Cybertruck Fan Page!" />
 		<meta name="description" content="A Cybertruck Fan Page!" />
@@ -40,7 +40,7 @@
 
 		<meta name="twitter:card" content="summary_large_image" />
 		<meta property="twitter:image" content="https://cybertruck.dev" />
-		<meta property="twitter:title" content="CyberTruck" />
+		<meta property="twitter:title" content="Cybertruck" />
 
 		<link
 			rel="stylesheet"
@@ -178,7 +178,7 @@
 ================================================== -->
 					<section class="recent-posts">
 						<div class="section-title">
-							<h2>Archive of posts with <span>category 'CyberTruck'</span></h2>
+							<h2>Archive of posts with <span>category 'Cybertruck'</span></h2>
 						</div>
 						<div class="row listrecent">
 							<!-- begin post -->
@@ -186,38 +186,203 @@
 							<div class="col-lg-4 col-md-6 mb-30px card-group">
 								<div class="card h-100">
 									<div class="maxthumb">
-										<a href="/tesla-cybertruck-details">
+										<a href="/cybertruck-price-calculator">
 											<img
 												class="img-fluid"
-												src="/assets/images_out/posts/cybertruckdetails-800-071e4cb17.jpg"
-												alt="Tesla Cybertruck Details"
+												src="/assets/images_out/posts/cybertruckcalculator-800-8b8436849.png"
+												alt="Cybertruck Price Calculator"
 												srcset="
-													/assets/images_out/posts/cybertruckdetails-200-071e4cb17.jpg   200w,
-													/assets/images_out/posts/cybertruckdetails-400-071e4cb17.jpg   400w,
-													/assets/images_out/posts/cybertruckdetails-800-071e4cb17.jpg   800w,
-													/assets/images_out/posts/cybertruckdetails-1200-071e4cb17.jpg 1200w
+													/assets/images_out/posts/cybertruckcalculator-200-8b8436849.png   200w,
+													/assets/images_out/posts/cybertruckcalculator-400-8b8436849.png   400w,
+													/assets/images_out/posts/cybertruckcalculator-800-8b8436849.png   800w,
+													/assets/images_out/posts/cybertruckcalculator-1024-8b8436849.png 1024w
 												"
 											/>
 										</a>
 									</div>
 									<div class="card-body">
 										<h2 class="card-title">
-											<a class="text-dark" href="/tesla-cybertruck-details"
-												>Tesla Cybertruck Details</a
+											<a class="text-dark" href="/cybertruck-price-calculator"
+												>Cybertruck Price Calculator</a
 											>
 										</h2>
 										<h4 class="card-text">
-											Today is the detail, we’ll be updating this blog post with
-											all the details coming from the release announcement later
-											today.
+											Everyone wants to know how much the Cybertruck is going to
+											be, and when you can get one! Well we've got the first
+											Cybertruck Price Calculator available for you to...
 										</h4>
 									</div>
 									<div class="card-footer bg-white">
 										<div class="wrapfooter">
-											<span class="post-date">30 Nov 2023</span>
+											<span class="post-date">28 Nov 2022</span>
 
 											<span class="post-read-more"
-												><a href="/tesla-cybertruck-details" title="Read Story"
+												><a
+													href="/cybertruck-price-calculator"
+													title="Read Story"
+													><svg
+														class="svgIcon-use"
+														width="25"
+														height="25"
+														viewbox="0 0 25 25"
+													>
+														<path
+															d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
+															fill-rule="evenodd"
+														></path></svg></a
+											></span>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- end post -->
+
+							<!-- begin post -->
+
+							<div class="col-lg-4 col-md-6 mb-30px card-group">
+								<div class="card h-100">
+									<div class="maxthumb">
+										<a href="/cybertruck-ordernumber">
+											<img
+												class="img-fluid"
+												src="/assets/images_out/posts/cybertruckordernumber-800-f9729095b.jpg"
+												alt="How to tell your Cybertruck Order Number Position"
+												srcset="
+													/assets/images_out/posts/cybertruckordernumber-200-f9729095b.jpg   200w,
+													/assets/images_out/posts/cybertruckordernumber-400-f9729095b.jpg   400w,
+													/assets/images_out/posts/cybertruckordernumber-800-f9729095b.jpg   800w,
+													/assets/images_out/posts/cybertruckordernumber-1600-f9729095b.jpg 1600w,
+													/assets/images_out/posts/cybertruckordernumber-2000-f9729095b.jpg 2000w
+												"
+											/>
+										</a>
+									</div>
+									<div class="card-body">
+										<h2 class="card-title">
+											<a class="text-dark" href="/cybertruck-ordernumber"
+												>How to tell your Cybertruck Order Number Position</a
+											>
+										</h2>
+										<h4 class="card-text">
+											So you’ve ordered a Cybertruck, and you’re wondering how
+											many people are ahead of you in line. Here’s how to tell:
+										</h4>
+									</div>
+									<div class="card-footer bg-white">
+										<div class="wrapfooter">
+											<span class="post-date">23 Aug 2022</span>
+
+											<span class="post-read-more"
+												><a href="/cybertruck-ordernumber" title="Read Story"
+													><svg
+														class="svgIcon-use"
+														width="25"
+														height="25"
+														viewbox="0 0 25 25"
+													>
+														<path
+															d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
+															fill-rule="evenodd"
+														></path></svg></a
+											></span>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- end post -->
+
+							<!-- begin post -->
+
+							<div class="col-lg-4 col-md-6 mb-30px card-group">
+								<div class="card h-100">
+									<div class="maxthumb">
+										<a href="/cybertruck-missouri">
+											<img
+												class="img-fluid"
+												src="/assets/images_out/posts/cybertruckmissouri-800-8a16b613b.jpg"
+												alt="The Cybertruck's Arrival in Missouri - A New Chapter in Automotive Innovation"
+												srcset="
+													/assets/images_out/posts/cybertruckmissouri-200-8a16b613b.jpg   200w,
+													/assets/images_out/posts/cybertruckmissouri-400-8a16b613b.jpg   400w,
+													/assets/images_out/posts/cybertruckmissouri-800-8a16b613b.jpg   800w,
+													/assets/images_out/posts/cybertruckmissouri-1600-8a16b613b.jpg 1600w,
+													/assets/images_out/posts/cybertruckmissouri-2000-8a16b613b.jpg 2000w
+												"
+											/>
+										</a>
+									</div>
+									<div class="card-body">
+										<h2 class="card-title">
+											<a class="text-dark" href="/cybertruck-missouri"
+												>The Cybertruck's Arrival in Missouri - A New Chapter in
+												Automotive Innovation</a
+											>
+										</h2>
+										<h4 class="card-text">
+											The Cybertruck’s Arrival in Missouri: A New Chapter in
+											Automotive Innovation
+										</h4>
+									</div>
+									<div class="card-footer bg-white">
+										<div class="wrapfooter">
+											<span class="post-date">20 Aug 2022</span>
+
+											<span class="post-read-more"
+												><a href="/cybertruck-missouri" title="Read Story"
+													><svg
+														class="svgIcon-use"
+														width="25"
+														height="25"
+														viewbox="0 0 25 25"
+													>
+														<path
+															d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
+															fill-rule="evenodd"
+														></path></svg></a
+											></span>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- end post -->
+
+							<!-- begin post -->
+
+							<div class="col-lg-4 col-md-6 mb-30px card-group">
+								<div class="card h-100">
+									<div class="maxthumb">
+										<a href="/first-post">
+											<img
+												class="img-fluid"
+												src="/assets/images_out/BlogPost-1-800-b81e545ab.jpg"
+												alt="First Post"
+												srcset="
+													/assets/images_out/BlogPost-1-200-b81e545ab.jpg   200w,
+													/assets/images_out/BlogPost-1-400-b81e545ab.jpg   400w,
+													/assets/images_out/BlogPost-1-800-b81e545ab.jpg   800w,
+													/assets/images_out/BlogPost-1-1600-b81e545ab.jpg 1600w,
+													/assets/images_out/BlogPost-1-2000-b81e545ab.jpg 2000w
+												"
+											/>
+										</a>
+									</div>
+									<div class="card-body">
+										<h2 class="card-title">
+											<a class="text-dark" href="/first-post">First Post</a>
+										</h2>
+										<h4 class="card-text">
+											Welcome to Cybertruck.dev! Stay tuned!
+										</h4>
+									</div>
+									<div class="card-footer bg-white">
+										<div class="wrapfooter">
+											<span class="post-date">20 Aug 2022</span>
+
+											<span class="post-read-more"
+												><a href="/first-post" title="Read Story"
 													><svg
 														class="svgIcon-use"
 														width="25"
@@ -254,7 +419,7 @@
 						</div>
 					</div>
 					<div class="col-md-8 p-5 align-self-center text-center">
-						<a class="mt-1 mb-1" href="/categories#Tesla">Tesla (10)</a>
+						<a class="mt-1 mb-1" href="/categories#Tesla">Tesla (9)</a>
 
 						<a class="mt-1 mb-1" href="/categories#Cybertruck"
 							>Cybertruck (4)</a
@@ -264,23 +429,13 @@
 
 						<a class="mt-1 mb-1" href="/categories#Electric">Electric (1)</a>
 
-						<a class="mt-1 mb-1" href="/categories#Industry">Industry (7)</a>
+						<a class="mt-1 mb-1" href="/categories#Industry">Industry (6)</a>
 
 						<a class="mt-1 mb-1" href="/categories#Purchase">Purchase (1)</a>
 
 						<a class="mt-1 mb-1" href="/categories#Calculator"
 							>Calculator (1)</a
 						>
-
-						<a class="mt-1 mb-1" href="/categories#CyberTruck"
-							>CyberTruck (1)</a
-						>
-
-						<a class="mt-1 mb-1" href="/categories#Truck">Truck (1)</a>
-
-						<a class="mt-1 mb-1" href="/categories#Details">Details (1)</a>
-
-						<a class="mt-1 mb-1" href="/categories#Specs">Specs (1)</a>
 					</div>
 				</div>
 			</div>

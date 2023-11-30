@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J1Q5FQGY29"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-J1Q5FQGY29');
+    </script>  
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cybertruck - Cybertruck.dev - A Tesla Cybertruck Fan Site! </title>
+<meta property="og:url" content="https://cybertruck.dev/category/cybertruck/" />
+<meta property="og:image" content="https://cybertruck.dev" />
+
+<meta property="og:type" content="category" />
+
+<meta property="og:title" content="Cybertruck" />
+
+<meta property="og:description" content="A Cybertruck Fan Page!" />
+<meta name="description" content="A Cybertruck Fan Page!">
+       
+
+
+<meta name="keywords" content="">
+<link rel="canonical" href="https://cybertruck.dev/category/cybertruck/">
+
+<link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon">
+<link rel="icon" href="/favicon.ico?" type="image/x-icon">
+
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta
+    property="twitter:image"
+    content="https://cybertruck.dev"
+/>
+<meta property="twitter:title" content="Cybertruck" />
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    
+<link href="/assets/css/screen.css" rel="stylesheet">
+
+<link href="/assets/css/main.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+
+
+<body class="layout-archive">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+    <div class="container pr-0">
+
+    <!-- Begin Logo -->
+    <a class="navbar-brand" href="/">
+    <img src="/assets/images/logo.gif" alt="Cybertruck.dev">
+    </a>
+    <!-- End Logo -->
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+
+        <!-- Begin Menu -->
+
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item">
+                
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+
+                
+                <li class="nav-item">
+                
+                    <a class="nav-link" href="/about">About</a>
+                </li>
+
+                <script src="/assets/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+
+            </ul>
+
+        <!-- End Menu -->
+
+    </div>
+
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+
+<div class="site-content">
+
+<div class="container">
+
+<!-- Site Title
+================================================== -->
+<!--
+<div class="mainheading">
+    <h1 class="sitetitle">Cybertruck.dev</h1>
+    <p class="lead">
+        A Cybertruck Fan Page!
+    </p>
+</div>
+-->
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    <!-- Begin List Posts
+================================================== -->
+<section class="recent-posts">
+<div class="section-title">
+    <h2>Archive of posts with <span>category 'Cybertruck'</span></h2>
+</div>
+<div class="row listrecent">
+
+
+
+    <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/cybertruck-price-calculator">
+                
+                    <img class="img-fluid" src="/assets/images_out/posts/cybertruckcalculator-800-8b8436849.png" alt="Cybertruck Price Calculator" srcset="/assets/images_out/posts/cybertruckcalculator-200-8b8436849.png 200w, /assets/images_out/posts/cybertruckcalculator-400-8b8436849.png 400w, /assets/images_out/posts/cybertruckcalculator-800-8b8436849.png 800w, /assets/images_out/posts/cybertruckcalculator-1024-8b8436849.png 1024w">
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/cybertruck-price-calculator">Cybertruck Price Calculator</a>
+                
+            </h2>
+            <h4 class="card-text">Everyone wants to know how much the Cybertruck is going to be, and when you can get one! Well we've got the first Cybertruck Price Calculator available for you to...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="post-date">28 Nov 2022</span>
+                
+                <span class="post-read-more"><a href="/cybertruck-price-calculator" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+
+
+    <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/cybertruck-ordernumber">
+                
+                    <img class="img-fluid" src="/assets/images_out/posts/cybertruckordernumber-800-f9729095b.jpg" alt="How to tell your Cybertruck Order Number Position" srcset="/assets/images_out/posts/cybertruckordernumber-200-f9729095b.jpg 200w, /assets/images_out/posts/cybertruckordernumber-400-f9729095b.jpg 400w, /assets/images_out/posts/cybertruckordernumber-800-f9729095b.jpg 800w, /assets/images_out/posts/cybertruckordernumber-1600-f9729095b.jpg 1600w, /assets/images_out/posts/cybertruckordernumber-2000-f9729095b.jpg 2000w">
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/cybertruck-ordernumber">How to tell your Cybertruck Order Number Position</a>
+                
+            </h2>
+            <h4 class="card-text">So you’ve ordered a Cybertruck, and you’re wondering how many people are ahead of you in line.  Here’s how to tell:
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="post-date">23 Aug 2022</span>
+                
+                <span class="post-read-more"><a href="/cybertruck-ordernumber" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+
+
+    <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/cybertruck-missouri">
+                
+                    <img class="img-fluid" src="/assets/images_out/posts/cybertruckmissouri-800-8a16b613b.jpg" alt="The Cybertruck's Arrival in Missouri - A New Chapter in Automotive Innovation" srcset="/assets/images_out/posts/cybertruckmissouri-200-8a16b613b.jpg 200w, /assets/images_out/posts/cybertruckmissouri-400-8a16b613b.jpg 400w, /assets/images_out/posts/cybertruckmissouri-800-8a16b613b.jpg 800w, /assets/images_out/posts/cybertruckmissouri-1600-8a16b613b.jpg 1600w, /assets/images_out/posts/cybertruckmissouri-2000-8a16b613b.jpg 2000w">
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/cybertruck-missouri">The Cybertruck's Arrival in Missouri - A New Chapter in Automotive Innovation</a>
+                
+            </h2>
+            <h4 class="card-text">The Cybertruck’s Arrival in Missouri: A New Chapter in Automotive Innovation
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="post-date">20 Aug 2022</span>
+                
+                <span class="post-read-more"><a href="/cybertruck-missouri" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+
+
+    <!-- begin post -->
+
+
+<div class="col-lg-4 col-md-6 mb-30px card-group">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/first-post">
+                
+                    <img class="img-fluid" src="/assets/images_out/BlogPost-1-800-b81e545ab.jpg" alt="First Post" srcset="/assets/images_out/BlogPost-1-200-b81e545ab.jpg 200w, /assets/images_out/BlogPost-1-400-b81e545ab.jpg 400w, /assets/images_out/BlogPost-1-800-b81e545ab.jpg 800w, /assets/images_out/BlogPost-1-1600-b81e545ab.jpg 1600w, /assets/images_out/BlogPost-1-2000-b81e545ab.jpg 2000w">
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/first-post">First Post</a>
+                
+            </h2>
+            <h4 class="card-text">Welcome to Cybertruck.dev! Stay tuned!
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="post-date">20 Aug 2022</span>
+                
+                <span class="post-read-more"><a href="/first-post" title="Read Story"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z" fill-rule="evenodd"></path></svg></a></span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+
+
+
+</div>
+</section>
+
+</div>
+
+
+    
+</div>
+
+<!-- Categories Jumbotron
+================================================== -->
+<div class="jumbotron fortags">
+	<div class="d-md-flex h-100">
+		<div class="col-md-4 transpdark align-self-center text-center h-100">
+            <div class="d-md-flex align-items-center justify-content-center h-100">
+                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore  <span class="d-none d-md-inline">→</span></h2>
+            </div>
+		</div>
+		<div class="col-md-8 p-5 align-self-center text-center">
+            
+            
+                
+                    <a class="mt-1 mb-1" href="/categories#Tesla">Tesla (9)</a>
+                
+                    <a class="mt-1 mb-1" href="/categories#Cybertruck">Cybertruck (4)</a>
+                
+                    <a class="mt-1 mb-1" href="/categories#Missouri">Missouri (1)</a>
+                
+                    <a class="mt-1 mb-1" href="/categories#Electric">Electric (1)</a>
+                
+                    <a class="mt-1 mb-1" href="/categories#Industry">Industry (6)</a>
+                
+                    <a class="mt-1 mb-1" href="/categories#Purchase">Purchase (1)</a>
+                
+                    <a class="mt-1 mb-1" href="/categories#Calculator">Calculator (1)</a>
+                
+            
+            
+		</div>
+	</div>
+</div>
+
+<!-- Begin Footer
+================================================== -->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © 2023 Cybertruck.dev 
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+                Forked from <a target="_blank" href="https://www.chrishammond.com/"> Chris Hammond</a>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+
+<script src="/assets/js/mediumish.js"></script>
+
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script> 
+
+
+
+</body>
+</html>
