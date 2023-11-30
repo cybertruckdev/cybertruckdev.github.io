@@ -95,6 +95,15 @@ The broadcast started with a very very slow animated video of various interior b
   - 35" All terrain tires
   - Adaptive air suspension 
   - 17" ground clearance (true, clearance, no diff hanging below)
+  - Locking diffs
+  - Rear torque vectoring
+  - Steer by wire
+  - Four Wheel Steering - variable gain 
+  - Turning circle less than a Model S 
+  - Low speed manuverability
+  - 48V low voltage architecture, first of it's kind
+  - Ethernet comms, distributed controllers, 70% less wire
+  - 
 
 
 
