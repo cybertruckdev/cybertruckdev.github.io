@@ -4,7 +4,7 @@ title: Autocross a Tesla Cybertruck GoFundMe!
 date: '2023-12-19T20:55:15+00:00'
 permalink: tesla-cybertruck-gofundme
 image: posts/gofundme.png
-categories: [ Tesla, Industry, CyberTruck, Truck, Details, Specs,GoFundMe, Order, Order Form ]
+categories: [ Tesla, Industry, Cybertruck, Truck, Details, Specs,GoFundMe, Order, Order Form ]
 featured: true
 comments: false 
 ---

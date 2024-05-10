@@ -4,7 +4,7 @@ title: Tesla Cybertruck Actual Details (Estimates)
 date: '2023-11-30T14:55:15+00:00'
 permalink: tesla-cybertruck-range-details
 image: posts/cybertruckdetails-3.JPG
-categories: [ Tesla, Industry, CyberTruck, Truck, Details, Specs, ]
+categories: [ Tesla, Industry, Cybertruck, Truck, Details, Specs, ]
 featured: true
 comments: false 
 ---

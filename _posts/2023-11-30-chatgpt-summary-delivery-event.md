@@ -4,7 +4,7 @@ title: A ChatGPT summary of the delivery event
 date: '2023-11-30T14:45:15+00:00'
 permalink: tesla-cybertruck-delivery-event
 image: posts/cybertruckdetails-1.JPG
-categories: [ Tesla, Industry, CyberTruck, Truck, Details, Specs, ChatGPT ]
+categories: [ Tesla, Industry, Cybertruck, Truck, Details, Specs, ChatGPT ]
 featured: true
 comments: false 
 ---
