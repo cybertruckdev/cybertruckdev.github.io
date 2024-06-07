@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "https://cybertruck.dev/policies",
     "title": "Cybertruck.dev Policies",
-    "body": "Do we need any policies? "
+    "body": "Do we need any policies? What do you think? "
     }, {
     "id": 4,
     "url": "https://cybertruck.dev/About",
