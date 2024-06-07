@@ -5,7 +5,7 @@ date: '2023-08-28T013:30:15+00:00'
 permalink: how-to-buy-a-tesla
 image: posts/clowncybertruck.jpg
 categories: [ Tesla, Industry, Purchase ]
-featured: true
+featured: false
 comments: false 
 ---
 

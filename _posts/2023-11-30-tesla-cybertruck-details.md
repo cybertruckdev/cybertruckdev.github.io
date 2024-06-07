@@ -5,7 +5,7 @@ date: '2023-11-30T13:00:15+00:00'
 permalink: tesla-cybertruck-details
 image: posts/cybertruckdetails.jpg
 categories: [ Tesla, Industry, Cybertruck, Truck, Details, Specs, ]
-featured: true
+featured: false
 comments: false 
 ---
 

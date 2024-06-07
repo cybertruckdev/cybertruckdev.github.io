@@ -5,7 +5,7 @@ date: '2023-08-28T013:00:15+00:00'
 permalink: tesla-gigafactory
 image: 
 categories: [ Tesla, Industry ]
-featured: true
+featured: false
 comments: false 
 ---
 
