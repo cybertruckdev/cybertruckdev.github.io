@@ -5,4 +5,4 @@ permalink: /policies
 comments: false
 ---
 
-Do we need any policies?
+Do we need any policies? What do you think? 
