@@ -49,8 +49,12 @@
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
 <meta name="twitter:description" content="{{ page.description | default: site.description }}">
 <meta name="twitter:image" content="{{ site.url }}{% if page.image %}{% picture direct {{ page.image }} %}{% else %}{{ site.header-img }}{% endif %}">
-
+{% if page.keywords %}
 <meta name="keywords" content="{{ page.keywords }}">
+{% else %}
+<meta name="keywords" content="{{ site.keywords }}">
+
+{% endif %}
 <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html' }}">
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
@@ -106,7 +110,7 @@
                 <li class="nav-item">
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
-
+                
                 {% include search-lunr.html %}
 
             </ul>
@@ -173,11 +177,11 @@
             {% assign categories_list = site.categories | sort %}           
             {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/category/{{ category | url_escape | strip | slugify }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/category/{{ category | url_escape | strip | slugify }}/">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
                 {% endfor %}
             {% else %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/category/{{ category[0] | url_escape | strip |  slugify }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
+                    <a class="mt-1 mb-1" href="{{site.baseurl}}/category/{{ category[0] | url_escape | strip |  slugify }}/">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}
@@ -191,7 +195,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} | <a href="/policies">Policies</a>
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
                 {{ site.templatemessage }}
